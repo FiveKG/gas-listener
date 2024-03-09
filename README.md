@@ -1,4 +1,4 @@
-# 用法
+# 使用方法
 ## 安装playright
 参考https://playwright.dev/docs/intro
 ## 配置SMTP邮箱
