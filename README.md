@@ -1,7 +1,7 @@
 # 使用方法
-## 安装playright
+## 1.安装playright
 参考https://playwright.dev/docs/intro
-## 配置SMTP邮箱
+## 2.配置SMTP邮箱
 ```
 host: 'smtp.163.com',
 port: 465,
@@ -11,7 +11,7 @@ auth: {
     pass: 'xxxx'
 }
 ```
-## 运行
+## 3.运行
 ```
 npm run dev
 ```
